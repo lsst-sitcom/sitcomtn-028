@@ -17,9 +17,10 @@ The results are documented in the notebook below.  There are three main recommen
 - We should gather more data once the AuxTel is again operational.
 
 The notebook below is available at NCSA at:
+
 /project/cslage/AuxTel/notebooks/EFD_Focus_Full_20Dec21.ipynb
 
-It is alos available at:
+It is also available at:
 https://github.com/craiglagegit/ScratchStuff/blob/master/notebooks/EFD_Focus_Full_20Dec21.ipynb
 
 .. raw:: html
